@@ -10,7 +10,7 @@
 	<!-- TODO Add Nodes -->
 	<!--<Label> "Hi there, We are using Git ! ! ! "</Label>-->
 
-	<Label alignment="CENTER" maxWidth="2.7976931348623157E308" text="Hi there, Lior and Alon using Git! ! !" textAlignment="CENTER" VBox.vgrow="ALWAYS">
+	<Label alignment="CENTER" maxWidth="2.7976931348623157E308" text="Hey there, changed... Once again." textAlignment="CENTER" VBox.vgrow="ALWAYS">
 		<font>
 			<Font size="31.0" />
 		</font>
